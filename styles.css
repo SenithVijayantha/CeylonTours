@@ -1,0 +1,33 @@
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4);
+}
+
+.custom__overview {
+    background-color: #d3dae1;  
+}
+
+.custom__dark-mode-toggle {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.custom__dark-mode-toggle__icon:hover {
+    
+}
+
+.custom__overview-bg-dark {
+    background-color: rgb(48, 47, 47);
+}
+
+.bg__dark-blue {
+    background-color: #031633;
+}
